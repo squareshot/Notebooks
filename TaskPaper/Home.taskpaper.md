@@ -1,8 +1,8 @@
 # FAMILY:
 ## FUZZIES:
 ### Zuzu:
-> [!TODO]
-   - New fecal sample @active @urgent
+> [!TODO] Zuzu
+> New fecal sample @active @urgent
 
 
 ### Echo:
