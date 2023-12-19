@@ -2,7 +2,7 @@
 ## FUZZIES:
 ### Zuzu:
 > [!TODO] Zuzu
-- [ ] New fecal sample @active @urgent
+> - [ ] New fecal sample @active @urgent
 
 
 ### Echo:
