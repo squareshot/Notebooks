@@ -1,13 +1,11 @@
 # FAMILY:
 ## FUZZIES:
-### Zuzu:
 > [!TODO] Zuzu
 > - [ ] New fecal sample @active @urgent
 
-
-### Echo:
-- ~~Call for appointment, leg @due(2023-12-04) @urgent @done(2023-12-04)~~
-- Figure out AKC claims @due(2023-12-04) @urgent
+> [!TODO] Echo
+> - [x] - ~~Call for appointment, leg @due(2023-12-04) @urgent @done(2023-12-04)~~
+> - [ ] Figure out AKC claims @due(2023-12-04) @urgent
 ---
 ## LAINEY:
 - What is pollen? @active
