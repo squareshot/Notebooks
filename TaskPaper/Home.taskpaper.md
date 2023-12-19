@@ -16,8 +16,6 @@
 > - [ ] Circuit boards @active
 > - [ ] Make a heart tree @active @high
 
----
-
 ## SARA:
 ### ERMjr:
    - Call Luis Abella, Edward Jones @due(2023-12-04) @urgent
