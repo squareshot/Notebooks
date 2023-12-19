@@ -6,15 +6,18 @@
 > [!TODO] Echo
 > - [x] - ~~Call for appointment, leg @due(2023-12-04) @urgent @done(2023-12-04)~~
 > - [ ] Figure out AKC claims @due(2023-12-04) @urgent
----
+
 ## LAINEY:
-- What is pollen? @active
--  Videos of snakes slithering @active
--  Do ostriches bury their heads @active
--  Monster Building, Hong Kong @active
--  Circuit boards @active
-- Make a heart tree @active @high
+> [!TODO] Research
+> - [ ] What is pollen? @active
+> - [ ] Videos of snakes slithering @active
+> - [ ] Do ostriches bury their heads @active
+> - [ ] Monster Building, Hong Kong @active
+> - [ ] Circuit boards @active
+> - [ ] Make a heart tree @active @high
+
 ---
+
 ## SARA:
 ### ERMjr:
    - Call Luis Abella, Edward Jones @due(2023-12-04) @urgent
