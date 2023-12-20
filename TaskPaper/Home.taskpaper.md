@@ -5,7 +5,7 @@
 
 > [!TODO] Echo
 > - [x] - ~~Call for appointment, leg @due(2023-12-04) @urgent @done(2023-12-04)~~
-> - [ ] Figure out AKC claims @due(2023-12-04) @urgent
+> - [ ] Figure out AKC claims @due(2023-12-20)
 
 ## LAINEY:
 > [!TODO] Research
