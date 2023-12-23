@@ -16,12 +16,18 @@
 > - [ ] Circuit boards @active
 > - [ ] Make a heart tree @active @high
 
+> [!EXAMPLE]- This is a summary
+> Blah
+> Blah
+
+
 ## SARA:
 > [!TODO] ERMjr
 > - [ ] Call Luis Abella (Edward Jones)
-   >   - (860) 354-4017
-   >   - **Establish Laine's Trust**
-   >   - Request disbursement from Rosetti
+   > > [!INFO]-
+>    > - (860) 354-4017
+>    > - **Establish Laine's Trust**
+>    > - Request disbursement from Rosetti
 > - [ ] Call Nationwide @pending @high
    >   - Taxation status
    >   - Sara, Laine
