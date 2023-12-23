@@ -17,16 +17,15 @@
 > - [ ] Make a heart tree @active @high
 
 ## SARA:
-### ERMjr:
-   - Call Luis Abella, Edward Jones @due(2023-12-04) @urgent
-      - 860-354-4017
-      - Establish Laine's Trust
-      - Request disbursement from Rosetti
-   - Call Nationwide @pending @high
-       - Taxation status
-       - Sara, Laine
-       - Pennsylvania, Connecticut
----
+> [!TODO] ERMjr
+> - [ ] Call Luis Abella (Edward Jones) @due(2023-12-04) @urgent
+   > [860-354-4017](tel://8603544017)
+   > - Establish Laine's Trust
+   > - Request disbursement from Rosetti
+> - [ ] Call Nationwide @pending @high
+   > Taxation status
+   > Sara, Laine
+    > Pennsylvania, Connecticut
 
 # HEALTH:
 - Schedule follow up with Tom Samuelson
