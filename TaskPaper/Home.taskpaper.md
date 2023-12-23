@@ -5,7 +5,7 @@
 
 > [!TODO] Echo
 > - [x] - ~~Call for appointment, leg @due(2023-12-04) @urgent @done(2023-12-04)~~
-> - [ ] Figure out AKC claims @due(2023-12-20)
+> - [ ] Figure out AKC claims
 
 ## LAINEY:
 > [!TODO] Research
@@ -19,69 +19,56 @@
 ## SARA:
 > [!TODO] ERMjr
 > - [ ] Call Luis Abella (Edward Jones)
-> - [ ] <8603544017>
-> - [ ] <tel://8603544017>
-   > - Establish Laine's Trust
-   > - Request disbursement from Rosetti
+   >   - (860) 354-4017
+   >   - **Establish Laine's Trust**
+   >   - Request disbursement from Rosetti
 > - [ ] Call Nationwide @pending @high
-   > Taxation status
-   > Sara, Laine
-    > Pennsylvania, Connecticut
+   >   - Taxation status
+   >   - Sara, Laine
+   >   - Pennsylvania, Connecticut
 
 # HEALTH:
-- Schedule follow up with Tom Samuelson
-- 
+- [ ] Schedule follow up with Tom Samuelson
 
 # HOME ACTIONS:
-## CLOSET PROJECT:
--  ~~Install system @due(2023-12-04) @scheduled @urgent~~ **@done**
--  Empty Sara's @next @high
--  Transfer office from guest room @pending
+> [!TODO] CLOSET PROJECT:
+> -  [ ] ~~Install system @due(2023-12-04) @scheduled @urgent~~ **@done**
+> -  [ ] Empty Sara's @next @high
+> -  [ ] Transfer office from guest room @pending
 
-## BASEMENT:
-- Set up table @due(2023-12-08) @scheduled @urgent
-- Set up EC @due(2023-12-08) @scheduled @urgent
-    - Music equipment @due(2023-12-09) @scheduled @high
-    - Crafting equipment @due(2023-12-10) @scheduled @high
+> [!TODO] BASEMENT:
+> - [ ] Set up table @scheduled @urgent
+> - [ ] Set up EC @scheduled @urgent
+> - [ ] Music equipment @scheduled @high
+> - [ ] Crafting equipment @scheduled @high
 
-## SMALL OFFICE:
-- Confirm measurements @pending
-- Uninstall current closet system @pending
-- Assemble desk @pending
-- Migrate from kitchen island @pending
+> [!TODO] SMALL OFFICE:
+> - [ ] Confirm measurements @pending
+> - [ ] Uninstall current closet system @pending
+> - [ ] Assemble desk @pending
+> - [ ] Migrate from kitchen island @pending
 
-## LINEN CLOSET:
-- Install shelves @pending
+> [!TODO] LINEN CLOSET:
+> - [ ] Install shelves @pending
 
-## ELECTRICIAN:
-- Install outlet in small office @due(2023-12-20)) @scheduled
+> [!TODO] ELECTRICIAN:
+> - [ ] Install outlet in small office @scheduled
 
 # ADMIN:
-## MISC:
-## BILLS:
-- ~~Mitchell Invoice @due(2023-12-01) @scheduled @high~~
-- AJ @due(2023-12-05) @high
+> [!TODO] MISC:
 
----
+> [!TODO] BILLS:
+> - [ ] ~~Mitchell Invoice @due(2023-12-01) @scheduled @high~~
+> - [ ] AJ @due(2023-12-05) @high
 
 # SHOPPING:
-## Gifts:
-### Laine:
--  ~~Kitty Fairy Stuffy @active @high~~
--  ~~Pretzel Pup books @active @high~~
----
-## Skating:
-### For Laine:
-- New knee pads @active
----
-## Volcano Project:
-- Papier-mâché @active @high
----
-# HOLDING:
-## FUTURE IMPROVEMENTS:
-- Garage doors @hold
-- Master bathroom @hold
+### Gifts:
 
----
+> [!TODO] Laine:
+> - [ ] ~~Kitty Fairy Stuffy @active @high~~
+> - [ ] ~~Pretzel Pup books @active @high~~
+
+### Volcano Project:
+- Papier-mâché @active @high
 
 # ARCHIVE:
