@@ -19,8 +19,8 @@
 ## SARA:
 > [!TODO] ERMjr
 > - [ ] Call Luis Abella (Edward Jones)
-> - [ ] [(860) 354-4017](860-354-4017)
-> - [ ] <tel:///8603544017>
+> - [ ] <8603544017>
+> - [ ] <tel://8603544017>
    > - Establish Laine's Trust
    > - Request disbursement from Rosetti
 > - [ ] Call Nationwide @pending @high
