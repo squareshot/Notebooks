@@ -16,15 +16,11 @@
 > - [ ] Circuit boards @active
 > - [ ] Make a heart tree @active @high
 
-> [!EXAMPLE]- This is a summary
-> Blah
-> Blah
-
 
 ## SARA:
 > [!TODO] ERMjr
 > - [ ] Call Luis Abella (Edward Jones)
-   > > [!INFO]-
+   > > [!TIP]+
 >    > - (860) 354-4017
 >    > - **Establish Laine's Trust**
 >    > - Request disbursement from Rosetti
