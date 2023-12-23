@@ -318,6 +318,28 @@ This is <mark>highlighted text</mark> using HTML tag
 
 This is <mark>highlighted text</mark> using HTML tag
 
+# Callouts
+
+When it comes to emphasizing specific ideas or highlighting content that is only relevant in certain situations, callouts can be extremely effective. They serve as a useful tool for drawing attention and providing additional context.
+
+Callouts are almost equivalent to standard Markdown block quotes in their syntax.  
+To create a callout, add `[!INFO]` to the first line of a blockquote, where `INFO` is the type of callout. The type determines how the callout looks.
+
+All supported callout types:
+
+-   **info** (alias: note)
+-   **todo** (alias: checklist)
+-   **example**
+-   **summary** (aliases: abstract, tldr)
+-   **question** (aliases: help, faq)
+-   **tip** (alias: hint)
+-   **quote** (alias: cite)
+-   **success** (aliases: check, done)
+-   **warning** (aliases: caution, attention)
+-   **error** (aliases: fail, failure, missing, exception)
+-   **danger**
+-   **bug**
+
 # Merge conflict
 When during the notebook synchronization notes can't be merged without conflicts, two alternative variants will be provided so you can pick the right one.
 
