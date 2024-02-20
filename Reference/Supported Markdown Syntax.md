@@ -1,4 +1,5 @@
 # Heading
+<TOC>
 
 Start a line with a hash character `#` to set a heading. Organize your remarks with subheadings by starting a line with additional hash characters, for example `####`. Up to six levels of headings are supported.
 
