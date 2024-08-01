@@ -1,0 +1,43 @@
+# IHC for CD31, cTn and WGA
+## 2024-07-31
+
+
+- **Reagents**
+  - TNNI3 HPA046428, Rb
+    - 1:500
+    - ER1
+  - TNNT2 HPA015774, Rb
+    - 1:500
+    - ER1
+  - ACTN1 HPA006035, Rb
+    - 1:500
+    - ER1
+  - CD31 AF3628, Gt
+    - Reconstitute in 500ul PBS
+    - 1:50
+    - ER1
+  - WGA 1:100
+- **Prep**
+    - Primary antibody, 2ml
+      - TNNI3        4ul               .8ug/ml
+      - TNNT2      4ul                .4ug/ml
+      - ACTN1       4ul                   .05ug/ml
+      - CD31          40ul             4ug/ml
+      - WGA         20ul
+      - Buffer        1.948ml
+  - Isotype control, 1ml
+    - Goat, 1ul
+    - Rabbit, 1ul
+    - Buffer        998.25ul
+  - Secondary antibody, 2ml
+    - donkey anti-goat 488      6ul
+    - donkey anti-rabbit 647     3ul
+- **Slides, treatments**
+  - Control sham ER1
+  - Control TAC ER1
+  - Isotype control 1 ER1
+  - Isotype control 2 ER1
+  - Control sham ER2
+  - Control TAC ER2
+  - Isotype control 1 ER2
+  - Isotype control 2 ER2
